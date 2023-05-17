@@ -1,2 +1,2 @@
 # agency_website
-a creative website for Design (agency)
+a website for creative Designs (agency)
